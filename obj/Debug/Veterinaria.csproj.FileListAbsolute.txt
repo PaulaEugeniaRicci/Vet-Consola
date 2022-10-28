@@ -1,0 +1,14 @@
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\bin\Debug\Vet.exe.config
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\bin\Debug\Vet.exe
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\bin\Debug\Vet.pdb
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Veterinaria.csprojAssemblyReference.cache
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.FrmAlta.resources
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.FrmCliente.resources
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.FrmConsulta.resources
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.FrmEmpleado.resources
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.FrmInicio.resources
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.Properties.Resources.resources
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.exe
+C:\Users\Paula\source\repos\Proyecto Veterinaria\Vet\obj\Debug\Vet.pdb

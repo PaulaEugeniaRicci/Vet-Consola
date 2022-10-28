@@ -1,0 +1,15 @@
+C:\Users\Paula\source\repos\Vet\Vet\bin\Debug\Vet.exe.config
+C:\Users\Paula\source\repos\Vet\Vet\bin\Debug\Vet.exe
+C:\Users\Paula\source\repos\Vet\Vet\bin\Debug\Vet.pdb
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.csprojAssemblyReference.cache
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.Properties.Resources.resources
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.csproj.GenerateResource.cache
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.exe
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.pdb
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.FrmInicio.resources
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.FrmAgenda.resources
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.FrmAlta.resources
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.FrmConsulta.resources
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.FrmCliente.resources
+C:\Users\Paula\source\repos\Vet\Vet\obj\Debug\Vet.FrmEmpleado.resources
